@@ -1,0 +1,16 @@
+FullName,Role
+John Doe,Quality Inspector
+Jane Smith,Quality Inspector
+Peter Jones,Plant Manager
+Mary Williams,Quality Inspector
+David Brown,Operator
+Susan Miller,Quality Inspector
+Robert Johnson,Plant Manager
+Karen White,Operator
+Michael Lee,Quality Inspector
+Patricia Garcia,Operator
+James Rodriguez,Operator
+Linda Martinez,Quality Inspector
+Charles Hernandez,Plant Manager
+Barbara Lopez,Operator
+Thomas Gonzalez,Quality Inspector
